@@ -1,6 +1,7 @@
 # 推荐阅读
 
 - [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/) — Stuart Russell 和 Peter Norvig 著的人工智能教材。
+- [How to Be Successful](https://blog.samaltman.com/how-to-be-successful) — Sam Altman 谈如何取得成功。
 
 ## Agent Skills
 
